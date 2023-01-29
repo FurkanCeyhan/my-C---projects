@@ -1,0 +1,7 @@
+C:\Users\ahmet\source\repos\OOP example\OOP example\bin\Debug\OOP example.exe.config
+C:\Users\ahmet\source\repos\OOP example\OOP example\bin\Debug\OOP example.exe
+C:\Users\ahmet\source\repos\OOP example\OOP example\bin\Debug\OOP example.pdb
+C:\Users\ahmet\source\repos\OOP example\OOP example\obj\Debug\OOP example.csproj.AssemblyReference.cache
+C:\Users\ahmet\source\repos\OOP example\OOP example\obj\Debug\OOP example.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\OOP example\OOP example\obj\Debug\OOP example.exe
+C:\Users\ahmet\source\repos\OOP example\OOP example\obj\Debug\OOP example.pdb
